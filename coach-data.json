@@ -1,1 +1,11 @@
-{"messages":{},"didNotConvert":[]}
+{
+  "messages": {
+    "windsor_NTg5ODU0MQ==": {
+      "week1": true,
+      "week2": false,
+      "week3": false,
+      "conversion": false
+    }
+  },
+  "didNotConvert": []
+}
